@@ -1,2 +1,2 @@
-# infinty-online-course
+# Infinty-online-course
 Free online courses
